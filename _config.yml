@@ -1,6 +1,13 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:         kramdown
+kramdown:
+  input: GFM
+highlighter:      pygments
+# pygments:         true
+timezone:         Europe/London
+maruku:
+  use_divs:       true
+  fenced_code_blocks: true
 
 # Permalinks
 permalink:        pretty

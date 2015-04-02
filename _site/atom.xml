@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>logistix.io</title>
- <link href="http://logistix.io/atom.xml" rel="self"/>
- <link href="http://logistix.io/"/>
- <updated>2014-08-18T08:41:44+01:00</updated>
- <id>http://logistix.io</id>
+ <title>quru.com</title>
+ <link href="http://quru.com/atom.xml" rel="self"/>
+ <link href="http://quru.com/"/>
+ <updated>2015-04-02T11:29:33+01:00</updated>
+ <id>http://quru.com</id>
  <author>
    <name>Quru</name>
-   <email>info@logistix.io</email>
+   <email>info@quru.com</email>
  </author>
 
  

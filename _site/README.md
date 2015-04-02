@@ -1,5 +1,5 @@
-# Logistix
+# QuruEmail
 
-This is a holding page. For later development.
+This is a site that is being used for DR purposes by the open source enterprise solutions specialists quru.com
 
-Contact info@logisitix.io for more details.
+Contact info@quru.com for more details.
