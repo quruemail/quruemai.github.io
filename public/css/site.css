@@ -1,3 +1,13 @@
+body
+{
+	max-width: 780px;
+	margin-left: auto;
+	margin-right: auto;
+	font: 14px/18px Arial, Helvetica, sans-serif;
+	padding: 0 2rem 0 2rem;
+}
+
+
 div.masthead
 {
 	position: fixed;
@@ -17,10 +27,13 @@ div.hint
 	float: right;
 }
 
+.banner {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
 .banner img
 {
-	width: 100% !important;
-	height: auto;
-	padding-top:  3rem;
+	margin: 2rem auto 2rem;
 }
 

@@ -17,7 +17,7 @@ title:            quru.com
 tagline:          The open source IT solutions company
 url:              http://quru.com
 paginate:         1
-baseurl:          /
+baseurl:          //
 author:
   name:           Quru
   url:            https://twitter.com/quru
